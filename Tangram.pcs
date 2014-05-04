@@ -1,0 +1,47 @@
+100
+7  # of pieces
+
+9 1 0 0      medium triangle (point down)
+3
+-6  0
+ 6  0
+ 0  6
+
+3 8 0 0      small triangle 1  (point right)
+3
+ 0 -4
+ 4  0
+ 0  4
+
+15 8 0 0     small triangle 2  (point left)
+3
+ 0 -4
+-4  0
+ 0  4
+
+9 16 0 0     large triangle 1   (point up)
+3
+-8  0
+ 0 -8
+ 8  0
+
+9 17 0 0     large triangle 2   (point down)
+3
+-8  0
+ 0  8
+ 8  0
+
+5 26 0 0     parallelogram
+4
+-3 -6
+ 3  0
+ 3  6
+-3  0
+
+13 29 0 0    square
+4
+-3 -3
+ 3 -3
+ 3  3
+-3  3
+
